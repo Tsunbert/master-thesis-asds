@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "bigquery-pipeline-audit": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "computedHash": "42f544298ade22c439a62e9ba40ced9c1df07c536332232266615ba078df00ef"
+    },
+    "marimo-batch": {
+      "source": "marimo-team/skills",
+      "sourceType": "github",
+      "computedHash": "2ecd5adef784eda37ebeb963afed6e11021e583293153e1ade9ce50554368754"
+    },
+    "marimo-pair": {
+      "source": "marimo-team/marimo-pair",
+      "sourceType": "github",
+      "computedHash": "9e66972813e524975332ab2460c7a5d373704de8a95e2af5eac669d9750d73c9"
+    },
+    "statsmodels": {
+      "source": "davila7/claude-code-templates",
+      "sourceType": "github",
+      "computedHash": "a1c24864b725de84fd39dc0d6937add99fa3bc233c934a8049b27f03b5200a49"
+    }
+  }
+}
